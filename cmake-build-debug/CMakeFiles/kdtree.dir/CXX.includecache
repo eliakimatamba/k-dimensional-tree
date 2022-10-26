@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/kdtree/kdtree.cpp
+kdtree.h
+C:/Users/user/CLionProjects/kdtree/kdtree.h
+
+C:/Users/user/CLionProjects/kdtree/kdtree.h
+bits/stdc++.h
+-
+iostream
+-
+
