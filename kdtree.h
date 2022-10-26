@@ -1,7 +1,3 @@
-//
-// Created by user on 12/13/2021.
-//
-
 #ifndef UNTITLED_KDTREE_H
 #define UNTITLED_KDTREE_H
 
